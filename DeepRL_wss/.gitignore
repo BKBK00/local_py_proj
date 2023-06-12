@@ -1,0 +1,13 @@
+.vscode/
+output*/
+__pycache__/
+.ipynb_checkpoints/
+mnist_data/
+
+*.ipynb 
+*.png 
+*.sh
+
+tests/
+test*.py
+test.md
